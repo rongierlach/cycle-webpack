@@ -1,0 +1,28 @@
+{
+  "name": "cycle-webpack",
+  "version": "0.0.0",
+  "description": "Cycle.js + webpack",
+  "standard": {
+    "parser": "babel-eslint"
+  },
+  "scripts": {
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cycle/core": "^7.0.0",
+    "@cycle/history": "^4.0.1",
+    "babel-register": "^6.16.3",
+    "etc": "^1.1.0",
+    "fs": "0.0.1-security",
+    "koa": "^1.2.4",
+    "ramda": "^0.22.1",
+    "rx": "^4.1.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.0.0",
+    "standard": "^8.3.0",
+    "webpack": "^1.13.2"
+  }
+}
